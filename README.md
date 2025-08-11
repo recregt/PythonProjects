@@ -16,6 +16,12 @@ A simple command-line calculator that performs basic arithmetic operations (addi
 
 * **Concepts Learned:** Creating and calling functions (`def`), handling multiple user inputs, and robust error handling with `try-except` for both invalid input and division by zero.
 
+### 3. To-Do List
+
+A console-based application for managing a simple to-do list. Users can add, remove, and view tasks.
+
+* **Concepts Learned:** Using `list` data structures, managing user input within a `while` loop, and advanced list methods like `append()`, `pop()`, and `enumerate()`.
+
 ---
 
 Feel free to explore the projects and provide feedback.
