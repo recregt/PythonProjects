@@ -22,6 +22,12 @@ A console-based application for managing a simple to-do list. Users can add, rem
 
 * **Concepts Learned:** Using `list` data structures, managing user input within a `while` loop, and advanced list methods like `append()`, `pop()`, and `enumerate()`.
 
+### 4. Basic Contact Book
+
+A simple console-based contact management system. Users can add, view, search for, and remove contacts.
+
+* **Concepts Learned:** Using `dictionaries` to store structured data, combining `lists` and `dictionaries`, and implementing a robust search function that is not case-sensitive.
+
 ---
 
 Feel free to explore the projects and provide feedback.
