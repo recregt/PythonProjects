@@ -28,6 +28,12 @@ A simple console-based contact management system. Users can add, view, search fo
 
 * **Concepts Learned:** Using `dictionaries` to store structured data, combining `lists` and `dictionaries`, and implementing a robust search function that is not case-sensitive.
 
+### 5. Password Generator
+
+A console-based application that generates random, secure passwords based on user-defined criteria. It saves and manages the last 10 passwords using a cross-platform file system.
+
+* **Concepts Learned:** `pathlib` for cross-platform file management, `random` and `string` libraries for generating passwords, modular design with functions (`def`), list management (`.append()`, `del`) to store and limit data, file I/O (`open()`) for data persistence, and `if __name__ == "__main__":` for project structure.
+
 ---
 
 Feel free to explore the projects and provide feedback.
