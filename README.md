@@ -34,6 +34,12 @@ A console-based application that generates random, secure passwords based on use
 
 * **Concepts Learned:** `pathlib` for cross-platform file management, `random` and `string` libraries for generating passwords, modular design with functions (`def`), list management (`.append()`, `del`) to store and limit data, file I/O (`open()`) for data persistence, and `if __name__ == "__main__":` for project structure.
 
+### 6. File Organizer
+
+A script that automatically organizes files in a specified directory (e.g., Downloads) into categorized subfolders based on file extensions.
+
+* **Concepts Learned:** `pathlib` for robust cross-platform path management, `os` for file system operations, `logging` for tracking script activity and handling errors, the `for...else` loop for elegant control flow, and automating scripts with the Windows Task Scheduler.
+
 ---
 
 Feel free to explore the projects and provide feedback.
