@@ -1,44 +1,58 @@
 # Python Projects
 
-A collection of basic Python projects developed as a portfolio. This repository showcases my learning journey in programming, from foundational concepts to more advanced topics.
+### A collection of projects showcasing my journey from foundational concepts to practical applications.
 
 ---
 
-### 1. Guess The Number
+### About This Repository
 
-This is a simple console-based number guessing game. The player tries to guess a random number chosen by the computer.
+This repository serves as a central hub for my Python projects, each developed in its own dedicated repository. These projects demonstrate my learning journey in programming, from foundational concepts to more advanced topics like web development and containerization.
 
-* **Concepts Learned:** `random` library, `input()`, `while` loops, `if/elif/else` statements, and `try-except` for error handling.
+---
 
-### 2. Basic Calculator
+## My Projects
 
-A simple command-line calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division).
+### 1. 🔢 Guess The Number
 
-* **Concepts Learned:** Creating and calling functions (`def`), handling multiple user inputs, and robust error handling with `try-except` for both invalid input and division by zero.
+A simple console-based game where the player tries to guess a random number.
 
-### 3. To-Do List
+-   **Skills Demonstrated:** Core logic, user input, error handling.
+-   **Repository:** [https://github.com/recregt/GuessTheNumber](https://github.com/recregt/GuessTheNumber)
 
-A console-based application for managing a simple to-do list. Users can add, remove, and view tasks.
+### 2. ✅ To-Do List
 
-* **Concepts Learned:** Using `list` data structures, managing user input within a `while` loop, and advanced list methods like `append()`, `pop()`, and `enumerate()`.
+A console-based application for managing a simple list of tasks.
 
-### 4. Basic Contact Book
+-   **Skills Demonstrated:** List data structures, user interaction loops, advanced list methods.
+-   **Repository:** [https://github.com/recregt/TodoListApp](https://github.com/recregt/TodoListApp)
 
-A simple console-based contact management system. Users can add, view, search for, and remove contacts.
+### 3. 📞 Basic Contact Book
 
-* **Concepts Learned:** Using `dictionaries` to store structured data, combining `lists` and `dictionaries`, and implementing a robust search function that is not case-sensitive.
+A console-based system for managing contacts with search and deletion features.
 
-### 5. Password Generator
+-   **Skills Demonstrated:** Dictionary usage, data structures, and search algorithms.
+-   **Repository:** [https://github.com/recregt/BasicContactBook](https://github.com/recregt/BasicContactBook)
 
-A console-based application that generates random, secure passwords based on user-defined criteria. It saves and manages the last 10 passwords using a cross-platform file system.
+### 4. 🔒 Password Generator
 
-* **Concepts Learned:** `pathlib` for cross-platform file management, `random` and `string` libraries for generating passwords, modular design with functions (`def`), list management (`.append()`, `del`) to store and limit data, file I/O (`open()`) for data persistence, and `if __name__ == "__main__":` for project structure.
+An application that generates random, secure passwords based on user-defined criteria.
 
-### 6. File Organizer
+-   **Skills Demonstrated:** Cross-platform file I/O, random data generation, and modular design.
+-   **Repository:** [https://github.com/recregt/PasswordGenerator](https://github.com/recregt/PasswordGenerator)
 
-A script that automatically organizes files in a specified directory (e.g., Downloads) into categorized subfolders based on file extensions.
+### 5. 📁 File Organizer
 
-* **Concepts Learned:** `pathlib` for robust cross-platform path management, `os` for file system operations, `logging` for tracking script activity and handling errors, the `for...else` loop for elegant control flow, and automating scripts with the Windows Task Scheduler.
+A script that automatically organizes files in a specified directory by their extension.
+
+-   **Skills Demonstrated:** File system operations, logging, and script automation.
+-   **Repository:** [https://github.com/recregt/FileOrganizer](https://github.com/recregt/FileOrganizer)
+
+### 6. 💻 Web Calculator App
+
+A web-based calculator application built with Flask, HTML, and CSS, fully containerized with Docker.
+
+-   **Skills Demonstrated:** Web development with Flask, front-end styling with CSS, and professional deployment practices with Docker.
+-   **Repository:** [https://github.com/recregt/CalculatorApp](https://github.com/recregt/CalculatorApp)
 
 ---
 
