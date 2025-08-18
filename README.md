@@ -17,7 +17,7 @@ This repository serves as a central hub for my Python projects, each developed i
 A web-based calculator application built with Flask, HTML, and CSS, fully containerized with Docker.
 
 -   **Skills Demonstrated:** Web development with Flask, front-end styling with CSS, and professional deployment practices with Docker.
--   **Repository:** ([https://github.com/recregt/CalculatorApp](https://github.com/recregt/Web-Calculator-App))
+-   **Repository:** ([https://github.com/recregt/Web-Calculator-App](https://github.com/recregt/Web-Calculator-App))
 
 ---
 
